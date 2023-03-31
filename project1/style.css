@@ -1,0 +1,52 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+}
+.header{
+    text-align: center;
+    margin: 23px;
+    padding: 34px;
+    margin-top: 22px;
+    font-size: 2.3rem;
+}
+.tribute{
+    background-color:white;
+    color:black;
+    display: grid;
+    grid-template-columns: 49fr 7fr;
+    align-items: center;
+    text-align: center;
+    font-size:2.8rem;
+    
+}
+.tribute img{
+   margin: -9px;
+   padding: 9px;
+   padding-left: 23px;
+}
+h2{
+    text-align: center;
+    font: bold;
+    margin-left: -149px;
+    padding: 23px;
+}
+.bio{
+    margin: 23px 34px;
+    padding: 23px 23px;
+    font-size: 2.3rem;
+    margin-left: 600px;
+    margin-right:445px;
+
+
+
+}
+.bio hr{
+    margin-top: 2 rem;
+} 
+
